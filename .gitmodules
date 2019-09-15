@@ -1,0 +1,3 @@
+[submodule "maydAI_kinect"]
+	path = maydAI_kinect
+	url = https://github.com/dog-eared/maydAI_kinect
